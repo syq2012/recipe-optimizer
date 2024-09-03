@@ -1,0 +1,46 @@
+Crude_Protein g 75 65
+Arginine g 3.10 2.60
+Histidine g 0.83 0.78
+Isoleucine g 1.40 1.30
+Leucine g 3.20 3.10
+Lysine g 3.00 2.08
+Methionine g 1.55 0.5 3.75
+Methionine-cystine g 2.75 1.00
+Phenylalanine g 1.30 1.05
+Phenylalanine-tyrosine g 4.80 3.83
+Threonine g 1.83 1.83
+Tryptophan g 0.63 0.40 4.25
+Valine g 1.55 1.55
+Crude_Fat g 22.5 22.5
+Linoleic_acid g 1.40 1.40
+alpha-Linolenic_acid g 0.05 ND
+Arachidonic_acid g 0.05 0.05
+Eicosapentaenoic+Docosahexaenoic_acid g 0.03 ND
+Calcium g 2.5 1.5
+Phosphorus g 2.0 1.25
+Potassium g 1.5 1.5
+Sodium g 0.5 0.5
+Chloride g 0.75 0.75 16
+Magnesium g 0.20 0.10
+Iron mg 20.0 20.0
+Copper_(extruded) mg 3.75 1.25
+Copper_(canned) mg 2.10 1.25
+Manganese mg 1.90 1.90
+Zinc mg 18.8 18.8
+Iodine mg 0.45 0.15
+Selenium mg 0.075 0.075
+Vitamin_A IU 1667 833 83325
+Vitamin_D IU 70 70 7520
+Vitamin_E IU 10 10
+Vitamin_K mg 0.025 0.025
+Thiamine mg 1.40 1.40
+Riboflavin mg 1.00 1.00
+Pantothenic_acid mg 1.44 1.44
+Niacin mg 15 15
+Pyridoxine mg 1.0 1.0
+Folic_acid mg 0.20 0.20
+Biotin mg 0.018 0.018
+Vitamin_B12 mg 0.005 0.005
+Choline mg 600 600
+Taurine_(extruded) g 0.25 0.25
+Taurine_(canned) g 0.50 0.50
